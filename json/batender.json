@@ -1,0 +1,1463 @@
+{
+    "InSize.xlsx": {
+        "data": {
+            "MADE": "SH9159-{date.replace(\"/\", \"\")}-83968",
+            "MaVach": "mavach",
+            "Random": 7,
+            "SIZE v\u00e0 M\u00c3": "SIZE M",
+            "SL": "6",
+            "T\u00caN H\u00c0NG": "BO 3D",
+            "code1": "font-family: Arial; font-size: 11px; font-weight: 400;",
+            "code2": "font-family: Code 128; font-size: 45px; font-weight: 400;",
+            "code3": "font-family: c39hrp24dhtt; font-size: 50px; font-weight: 400;"
+        },
+        "design": "<body style=\"font-weight: 600; word-spacing: 30px; font-size: 50px; text-align: center; font-family: Arial Monospaced; margin: 15px 0;\">%(SIZE v\u00e0 M\u00c3)s<div style=\"word-spacing: 0px; font-weight: bold;font-family: Times New Roman; font-width: 20px;\">%(T\u00caN H\u00c0NG)s</div><div style=\"font-family: Times New Roman; font-size: 26px; margin-top: 20px;font-weight: bold; word-spacing: 0px;\">%(MADE)s<div></body>",
+        "height": 198,
+        "history": [
+            {
+                "History": "10:23 - 11/01/2025",
+                "MADE": "Made in Vietnam (01/25)",
+                "SIZE v\u00e0 M\u00c3": "3XL",
+                "SL": "10",
+                "T\u00caN H\u00c0NG": "CT3D"
+            },
+            {
+                "History": "10:24 - 11/01/2025",
+                "MADE": "Made in Vietnam (01/25)",
+                "SIZE v\u00e0 M\u00c3": "SIZE XL",
+                "SL": "84",
+                "T\u00caN H\u00c0NG": "CNR"
+            },
+            {
+                "History": "10:24 - 11/01/2025",
+                "MADE": "Made in Vietnam (01/25)",
+                "SIZE v\u00e0 M\u00c3": "SIZE 2XL",
+                "SL": "84",
+                "T\u00caN H\u00c0NG": "CNR"
+            },
+            {
+                "History": "10:24 - 11/01/2025",
+                "MADE": "Made in Vietnam (01/25)",
+                "SIZE v\u00e0 M\u00c3": "SIZE 3XL",
+                "SL": "84",
+                "T\u00caN H\u00c0NG": "CNR"
+            },
+            {
+                "History": "11:11 - 11/01/2025",
+                "MADE": "Made in Vietnam (01/25)",
+                "SIZE v\u00e0 M\u00c3": "SIZE S",
+                "SL": "51",
+                "T\u00caN H\u00c0NG": "KHOAC 3D"
+            },
+            {
+                "History": "11:12 - 11/01/2025",
+                "MADE": "Made in Vietnam (01/25)",
+                "SIZE v\u00e0 M\u00c3": "SIZE S",
+                "SL": "51",
+                "T\u00caN H\u00c0NG": "KHOAC 3D"
+            },
+            {
+                "History": "11:31 - 12/01/2025",
+                "MADE": "(01/25)",
+                "SIZE v\u00e0 M\u00c3": "SIZE XL",
+                "SL": "10",
+                "T\u00caN H\u00c0NG": "BO COTTON"
+            },
+            {
+                "History": "11:31 - 12/01/2025",
+                "MADE": "(01/25)",
+                "SIZE v\u00e0 M\u00c3": "SIZE 2XL",
+                "SL": "10",
+                "T\u00caN H\u00c0NG": "BO COTTON"
+            },
+            {
+                "History": "11:31 - 12/01/2025",
+                "MADE": "(01/25)",
+                "SIZE v\u00e0 M\u00c3": "SIZE 3XL",
+                "SL": "10",
+                "T\u00caN H\u00c0NG": "BO COTTON"
+            },
+            {
+                "History": "07:32 - 13/01/2025",
+                "MADE": "( 01/25 )",
+                "SIZE v\u00e0 M\u00c3": "SIZE M",
+                "SL": "55",
+                "T\u00caN H\u00c0NG": "BO 3D"
+            },
+            {
+                "History": "07:32 - 13/01/2025",
+                "MADE": "( 01/25 )",
+                "SIZE v\u00e0 M\u00c3": "SIZE L",
+                "SL": "55",
+                "T\u00caN H\u00c0NG": "BO 3D"
+            },
+            {
+                "History": "07:32 - 13/01/2025",
+                "MADE": "( 01/25 )",
+                "SIZE v\u00e0 M\u00c3": "SIZE XL",
+                "SL": "55",
+                "T\u00caN H\u00c0NG": "BO 3D"
+            },
+            {
+                "History": "07:32 - 13/01/2025",
+                "MADE": "( 01/25 )",
+                "SIZE v\u00e0 M\u00c3": "SIZE 2XL",
+                "SL": "55",
+                "T\u00caN H\u00c0NG": "BO 3D"
+            },
+            {
+                "History": "07:36 - 13/01/2025",
+                "MADE": "",
+                "SIZE v\u00e0 M\u00c3": "",
+                "SL": "3",
+                "T\u00caN H\u00c0NG": "SIZE 7XL"
+            },
+            {
+                "History": "07:37 - 13/01/2025",
+                "MADE": "",
+                "SIZE v\u00e0 M\u00c3": "",
+                "SL": "3",
+                "T\u00caN H\u00c0NG": "SIZE 7XL"
+            },
+            {
+                "History": "07:46 - 13/01/2025",
+                "MADE": "( 01/25 )",
+                "SIZE v\u00e0 M\u00c3": "SIZE M",
+                "SL": "55",
+                "T\u00caN H\u00c0NG": "BO 3D"
+            },
+            {
+                "History": "07:46 - 13/01/2025",
+                "MADE": "( 01/25 )",
+                "SIZE v\u00e0 M\u00c3": "SIZE L",
+                "SL": "55",
+                "T\u00caN H\u00c0NG": "BO 3D"
+            },
+            {
+                "History": "07:46 - 13/01/2025",
+                "MADE": "( 01/25 )",
+                "SIZE v\u00e0 M\u00c3": "SIZE XL",
+                "SL": "55",
+                "T\u00caN H\u00c0NG": "BO 3D"
+            },
+            {
+                "History": "07:46 - 13/01/2025",
+                "MADE": "( 01/25 )",
+                "SIZE v\u00e0 M\u00c3": "SIZE 2XL",
+                "SL": "55",
+                "T\u00caN H\u00c0NG": "BO 3D"
+            },
+            {
+                "History": "08:20 - 13/01/2025",
+                "MADE": "Made in Vietnam (01/25)",
+                "SIZE v\u00e0 M\u00c3": "SIZE 4XL",
+                "SL": "4",
+                "T\u00caN H\u00c0NG": "QUAN THUN D"
+            },
+            {
+                "History": "08:20 - 13/01/2025",
+                "MADE": "Made in Vietnam (01/25)",
+                "SIZE v\u00e0 M\u00c3": "SIZE 5XL",
+                "SL": "4",
+                "T\u00caN H\u00c0NG": "QUAN THUN D"
+            },
+            {
+                "History": "08:20 - 13/01/2025",
+                "MADE": "Made in Vietnam (01/25)",
+                "SIZE v\u00e0 M\u00c3": "SIZE 6XL",
+                "SL": "4",
+                "T\u00caN H\u00c0NG": "QUAN THUN D"
+            },
+            {
+                "History": "08:20 - 13/01/2025",
+                "MADE": "Made in Vietnam (01/25)",
+                "SIZE v\u00e0 M\u00c3": "SIZE 7XL",
+                "SL": "4",
+                "T\u00caN H\u00c0NG": "QUAN THUN D"
+            },
+            {
+                "History": "08:20 - 13/01/2025",
+                "MADE": "Made in Vietnam (01/25)",
+                "SIZE v\u00e0 M\u00c3": "SIZE 8XL",
+                "SL": "4",
+                "T\u00caN H\u00c0NG": "QUAN THUN D"
+            },
+            {
+                "History": "08:43 - 13/01/2025",
+                "MADE": "Made in Vietnam (01/25)",
+                "SIZE v\u00e0 M\u00c3": "SIZE M",
+                "SL": "50",
+                "T\u00caN H\u00c0NG": "KHOAC 3D"
+            },
+            {
+                "History": "08:43 - 13/01/2025",
+                "MADE": "Made in Vietnam (01/25)",
+                "SIZE v\u00e0 M\u00c3": "SIZE L",
+                "SL": "50",
+                "T\u00caN H\u00c0NG": "KHOAC 3D"
+            },
+            {
+                "History": "08:43 - 13/01/2025",
+                "MADE": "Made in Vietnam (01/25)",
+                "SIZE v\u00e0 M\u00c3": "SIZE XL",
+                "SL": "50",
+                "T\u00caN H\u00c0NG": "KHOAC 3D"
+            },
+            {
+                "History": "08:43 - 13/01/2025",
+                "MADE": "Made in Vietnam (01/25)",
+                "SIZE v\u00e0 M\u00c3": "SIZE 4XL",
+                "SL": "50",
+                "T\u00caN H\u00c0NG": "KHOAC 3D"
+            },
+            {
+                "History": "09:48 - 13/01/2025",
+                "MADE": "Made in Vietnam (01/25)",
+                "SIZE v\u00e0 M\u00c3": "SIZE 3XL",
+                "SL": "21",
+                "T\u00caN H\u00c0NG": "KHOAC 3D"
+            },
+            {
+                "History": "09:48 - 13/01/2025",
+                "MADE": "Made in Vietnam (01/25)",
+                "SIZE v\u00e0 M\u00c3": "SIZE 4XL",
+                "SL": "21",
+                "T\u00caN H\u00c0NG": "KHOAC 3D"
+            },
+            {
+                "History": "14:59 - 13/01/2025",
+                "MADE": "Made in Vietnam",
+                "SIZE v\u00e0 M\u00c3": "XL #1103",
+                "SL": "77",
+                "T\u00caN H\u00c0NG": "CNR"
+            },
+            {
+                "History": "14:59 - 13/01/2025",
+                "MADE": "Made in Vietnam",
+                "SIZE v\u00e0 M\u00c3": "2XL #1103",
+                "SL": "77",
+                "T\u00caN H\u00c0NG": "CNR"
+            },
+            {
+                "History": "14:59 - 13/01/2025",
+                "MADE": "Made in Vietnam",
+                "SIZE v\u00e0 M\u00c3": "3XL #1103",
+                "SL": "77",
+                "T\u00caN H\u00c0NG": "CNR"
+            },
+            {
+                "History": "15:10 - 13/01/2025",
+                "MADE": "Made in Vietnam",
+                "SIZE v\u00e0 M\u00c3": "SIZE XL",
+                "SL": "1",
+                "T\u00caN H\u00c0NG": "DLTNR PUMA"
+            },
+            {
+                "History": "15:10 - 13/01/2025",
+                "MADE": "Made in Vietnam",
+                "SIZE v\u00e0 M\u00c3": "SIZE 2XL",
+                "SL": "1",
+                "T\u00caN H\u00c0NG": "DLTNR PUMA"
+            },
+            {
+                "History": "15:10 - 13/01/2025",
+                "MADE": "Made in Vietnam",
+                "SIZE v\u00e0 M\u00c3": "SIZE 3XL",
+                "SL": "1",
+                "T\u00caN H\u00c0NG": "DLTNR PUMA"
+            },
+            {
+                "History": "15:10 - 13/01/2025",
+                "MADE": "Made in Vietnam",
+                "SIZE v\u00e0 M\u00c3": "SIZE 4XL",
+                "SL": "1",
+                "T\u00caN H\u00c0NG": "DLTNR PUMA"
+            },
+            {
+                "History": "15:10 - 13/01/2025",
+                "MADE": "Made in Vietnam",
+                "SIZE v\u00e0 M\u00c3": "SIZE 5XL",
+                "SL": "1",
+                "T\u00caN H\u00c0NG": "DLTNR PUMA"
+            },
+            {
+                "History": "15:10 - 13/01/2025",
+                "MADE": "Made in Vietnam",
+                "SIZE v\u00e0 M\u00c3": "SIZE 6XL",
+                "SL": "1",
+                "T\u00caN H\u00c0NG": "DLTNR PUMA"
+            },
+            {
+                "History": "17:04 - 13/01/2025",
+                "MADE": "Made in Vietnam (01/25)",
+                "SIZE v\u00e0 M\u00c3": "SIZE XL",
+                "SL": "3",
+                "T\u00caN H\u00c0NG": "DU CUON"
+            },
+            {
+                "History": "18:44 - 13/01/2025",
+                "MADE": "Made in Vietnam",
+                "SIZE v\u00e0 M\u00c3": "SIZE M",
+                "SL": "30",
+                "T\u00caN H\u00c0NG": "KHOAC 3D"
+            },
+            {
+                "History": "18:44 - 13/01/2025",
+                "MADE": "Made in Vietnam",
+                "SIZE v\u00e0 M\u00c3": "SIZE L",
+                "SL": "30",
+                "T\u00caN H\u00c0NG": "KHOAC 3D"
+            },
+            {
+                "History": "18:44 - 13/01/2025",
+                "MADE": "Made in Vietnam",
+                "SIZE v\u00e0 M\u00c3": "SIZE XL",
+                "SL": "30",
+                "T\u00caN H\u00c0NG": "KHOAC 3D"
+            },
+            {
+                "History": "18:44 - 13/01/2025",
+                "MADE": "Made in Vietnam",
+                "SIZE v\u00e0 M\u00c3": "SIZE 2XL",
+                "SL": "30",
+                "T\u00caN H\u00c0NG": "KHOAC 3D"
+            },
+            {
+                "History": "18:44 - 13/01/2025",
+                "MADE": "Made in Vietnam",
+                "SIZE v\u00e0 M\u00c3": "SIZE 3XL",
+                "SL": "30",
+                "T\u00caN H\u00c0NG": "KHOAC 3D"
+            },
+            {
+                "History": "18:44 - 13/01/2025",
+                "MADE": "Made in Vietnam",
+                "SIZE v\u00e0 M\u00c3": "SIZE 4XL",
+                "SL": "30",
+                "T\u00caN H\u00c0NG": "KHOAC 3D"
+            },
+            {
+                "History": "08:55 - 14/01/2025",
+                "MADE": "SH9159-0125-83968",
+                "SIZE v\u00e0 M\u00c3": "SIZE XL",
+                "SL": "5",
+                "T\u00caN H\u00c0NG": "BO 3D"
+            },
+            {
+                "History": "08:55 - 14/01/2025",
+                "MADE": "SH9159-0125-83968",
+                "SIZE v\u00e0 M\u00c3": "SIZE 2XL",
+                "SL": "5",
+                "T\u00caN H\u00c0NG": "BO 3D"
+            },
+            {
+                "History": "09:01 - 14/01/2025",
+                "MADE": "SH9159-0125-83968",
+                "SIZE v\u00e0 M\u00c3": "SIZE M",
+                "SL": "6",
+                "T\u00caN H\u00c0NG": "BO 3D"
+            },
+            {
+                "History": "09:01 - 14/01/2025",
+                "MADE": "SH9159-0125-83968",
+                "SIZE v\u00e0 M\u00c3": "SIZE L",
+                "SL": "6",
+                "T\u00caN H\u00c0NG": "BO 3D"
+            }
+        ],
+        "mavach": 820,
+        "width": 300
+    },
+    "MaVach.xlsx": {
+        "data": {
+            "MA VACH": "mavach",
+            "MaVach": "mavach",
+            "Random": 7,
+            "SIZE": "(SIZE   L)",
+            "SL": "280/7",
+            "TEN NHAN": "NMEN",
+            "TEN SAN PHAM": "THUN D LS",
+            "code1": "font-family: Arial; font-size: 11px; font-weight: 400;",
+            "code2": "font-family: Code 128; font-size: 45px; font-weight: 400;",
+            "code3": "font-family: c39hrp24dhtt; font-size: 50px; font-weight: 400;"
+        },
+        "design": "<body style=\"text-align: center;\"> <div style=\"width: 80%%; font-family: Arial; font-weight: bold; font-size: 40px;\">%(TEN SAN PHAM)s</div> <div style=\"%(sizeStyle)s\">%(SIZE)s</div> <div style=\"%(code1)s\">0<span style=\"%(code2)s\">j<span/><span style=\"%(code3)s\">906778<span/><span style=\"%(code2)s\">j<span/><span style=\"%(code3)s\">005<span/>%(MaVach)s%(Random)s<span style=\"%(code2)s\">j<span/></div> <div style=\"font-size: 29px; font-weight: bold;\"> %(TEN NHAN)s %(MaVach)s</div></body>",
+        "height": 198,
+        "history": [
+            {
+                "History": "09:25 - 07/01/2025",
+                "MA VACH": "111",
+                "SIZE": "(SIZE   L)",
+                "SL": "20",
+                "TEN NHAN": "SON",
+                "TEN SAN PHAM": "DO BO"
+            },
+            {
+                "History": "09:25 - 07/01/2025",
+                "MA VACH": "111",
+                "SIZE": "(SIZE  XL)",
+                "SL": "20",
+                "TEN NHAN": "SON",
+                "TEN SAN PHAM": "DO BO"
+            },
+            {
+                "History": "09:25 - 07/01/2025",
+                "MA VACH": "111",
+                "SIZE": "(SIZE 2XL)",
+                "SL": "20",
+                "TEN NHAN": "SON",
+                "TEN SAN PHAM": "DO BO"
+            },
+            {
+                "History": "11:12 - 07/01/2025",
+                "MA VACH": "109",
+                "SIZE": "(SIZE   M)",
+                "SL": "20",
+                "TEN NHAN": "SON",
+                "TEN SAN PHAM": "NI CHUI DAU"
+            },
+            {
+                "History": "11:12 - 07/01/2025",
+                "MA VACH": "109",
+                "SIZE": "(SIZE   L)",
+                "SL": "20",
+                "TEN NHAN": "SON",
+                "TEN SAN PHAM": "NI CHUI DAU"
+            },
+            {
+                "History": "14:22 - 07/01/2025",
+                "MA VACH": "111",
+                "SIZE": "(SIZE   M)",
+                "SL": "5",
+                "TEN NHAN": "SON",
+                "TEN SAN PHAM": "DO BO"
+            },
+            {
+                "History": "14:22 - 07/01/2025",
+                "MA VACH": "111",
+                "SIZE": "(SIZE   L)",
+                "SL": "5",
+                "TEN NHAN": "SON",
+                "TEN SAN PHAM": "DO BO"
+            },
+            {
+                "History": "14:22 - 07/01/2025",
+                "MA VACH": "111",
+                "SIZE": "(SIZE  XL)",
+                "SL": "5",
+                "TEN NHAN": "SON",
+                "TEN SAN PHAM": "DO BO"
+            },
+            {
+                "History": "14:22 - 07/01/2025",
+                "MA VACH": "111",
+                "SIZE": "(SIZE 2XL)",
+                "SL": "5",
+                "TEN NHAN": "SON",
+                "TEN SAN PHAM": "DO BO"
+            },
+            {
+                "History": "14:52 - 07/01/2025",
+                "MA VACH": "112",
+                "SIZE": "SIZE XL",
+                "SL": "9",
+                "TEN NHAN": "SON",
+                "TEN SAN PHAM": "BO RACH"
+            },
+            {
+                "History": "14:52 - 07/01/2025",
+                "MA VACH": "112",
+                "SIZE": "SIZE 2XL",
+                "SL": "9",
+                "TEN NHAN": "SON",
+                "TEN SAN PHAM": "BO RACH"
+            },
+            {
+                "History": "14:52 - 07/01/2025",
+                "MA VACH": "112",
+                "SIZE": "SIZE 3XL",
+                "SL": "9",
+                "TEN NHAN": "SON",
+                "TEN SAN PHAM": "BO RACH"
+            },
+            {
+                "History": "08:42 - 08/01/2025",
+                "MA VACH": "109",
+                "SIZE": "(SIZE 6XL)",
+                "SL": "12",
+                "TEN NHAN": "SON",
+                "TEN SAN PHAM": "QUAN THUN N"
+            },
+            {
+                "History": "18:29 - 08/01/2025",
+                "MA VACH": "107",
+                "SIZE": "(SIZE   M)",
+                "SL": "21",
+                "TEN NHAN": "SON",
+                "TEN SAN PHAM": "BO COTTON"
+            },
+            {
+                "History": "18:29 - 08/01/2025",
+                "MA VACH": "107",
+                "SIZE": "(SIZE 2XL)",
+                "SL": "21",
+                "TEN NHAN": "SON",
+                "TEN SAN PHAM": "BO COTTON"
+            },
+            {
+                "History": "20:16 - 08/01/2025",
+                "MA VACH": "107",
+                "SIZE": "(SIZE 6XL)",
+                "SL": "15",
+                "TEN NHAN": "SON",
+                "TEN SAN PHAM": "QUAN NGAN"
+            },
+            {
+                "History": "20:16 - 08/01/2025",
+                "MA VACH": "107",
+                "SIZE": "(SIZE 7XL)",
+                "SL": "15",
+                "TEN NHAN": "SON",
+                "TEN SAN PHAM": "QUAN NGAN"
+            },
+            {
+                "History": "20:18 - 08/01/2025",
+                "MA VACH": "113",
+                "SIZE": "(SIZE 6XL)",
+                "SL": "15",
+                "TEN NHAN": "SON",
+                "TEN SAN PHAM": "QUAN NGAN"
+            },
+            {
+                "History": "20:18 - 08/01/2025",
+                "MA VACH": "113",
+                "SIZE": "(SIZE 7XL)",
+                "SL": "15",
+                "TEN NHAN": "SON",
+                "TEN SAN PHAM": "QUAN NGAN"
+            },
+            {
+                "History": "20:38 - 08/01/2025",
+                "MA VACH": "114",
+                "SIZE": "(SIZE   M)",
+                "SL": "15",
+                "TEN NHAN": "SON",
+                "TEN SAN PHAM": "NI DAY KEO"
+            },
+            {
+                "History": "20:38 - 08/01/2025",
+                "MA VACH": "114",
+                "SIZE": "(SIZE   L)",
+                "SL": "15",
+                "TEN NHAN": "SON",
+                "TEN SAN PHAM": "NI DAY KEO"
+            },
+            {
+                "History": "20:38 - 08/01/2025",
+                "MA VACH": "114",
+                "SIZE": "(SIZE  XL)",
+                "SL": "15",
+                "TEN NHAN": "SON",
+                "TEN SAN PHAM": "NI DAY KEO"
+            },
+            {
+                "History": "20:39 - 08/01/2025",
+                "MA VACH": "114",
+                "SIZE": "(SIZE   M)",
+                "SL": "15",
+                "TEN NHAN": "SON",
+                "TEN SAN PHAM": "NI DAY KEO"
+            },
+            {
+                "History": "20:39 - 08/01/2025",
+                "MA VACH": "114",
+                "SIZE": "(SIZE   L)",
+                "SL": "15",
+                "TEN NHAN": "SON",
+                "TEN SAN PHAM": "NI DAY KEO"
+            },
+            {
+                "History": "20:39 - 08/01/2025",
+                "MA VACH": "114",
+                "SIZE": "(SIZE  XL)",
+                "SL": "15",
+                "TEN NHAN": "SON",
+                "TEN SAN PHAM": "NI DAY KEO"
+            },
+            {
+                "History": "20:40 - 08/01/2025",
+                "MA VACH": "114",
+                "SIZE": "(SIZE   M)",
+                "SL": "15",
+                "TEN NHAN": "SON",
+                "TEN SAN PHAM": "NI DAY KEO"
+            },
+            {
+                "History": "20:40 - 08/01/2025",
+                "MA VACH": "114",
+                "SIZE": "(SIZE   L)",
+                "SL": "15",
+                "TEN NHAN": "SON",
+                "TEN SAN PHAM": "NI DAY KEO"
+            },
+            {
+                "History": "20:40 - 08/01/2025",
+                "MA VACH": "114",
+                "SIZE": "(SIZE  XL)",
+                "SL": "15",
+                "TEN NHAN": "SON",
+                "TEN SAN PHAM": "NI DAY KEO"
+            },
+            {
+                "History": "13:40 - 10/01/2025",
+                "MA VACH": "115",
+                "SIZE": "(SIZE   L)",
+                "SL": "32",
+                "TEN NHAN": "SON",
+                "TEN SAN PHAM": "QUAN THUN D"
+            },
+            {
+                "History": "13:40 - 10/01/2025",
+                "MA VACH": "115",
+                "SIZE": "(SIZE  XL)",
+                "SL": "32",
+                "TEN NHAN": "SON",
+                "TEN SAN PHAM": "QUAN THUN D"
+            },
+            {
+                "History": "13:40 - 10/01/2025",
+                "MA VACH": "115",
+                "SIZE": "(SIZE 2XL)",
+                "SL": "32",
+                "TEN NHAN": "SON",
+                "TEN SAN PHAM": "QUAN THUN D"
+            },
+            {
+                "History": "13:40 - 10/01/2025",
+                "MA VACH": "115",
+                "SIZE": "(SIZE 3XL)",
+                "SL": "32",
+                "TEN NHAN": "SON",
+                "TEN SAN PHAM": "QUAN THUN D"
+            },
+            {
+                "History": "13:40 - 10/01/2025",
+                "MA VACH": "115",
+                "SIZE": "(SIZE 4XL)",
+                "SL": "32",
+                "TEN NHAN": "SON",
+                "TEN SAN PHAM": "QUAN THUN D"
+            },
+            {
+                "History": "13:40 - 10/01/2025",
+                "MA VACH": "115",
+                "SIZE": "(SIZE 5XL)",
+                "SL": "32",
+                "TEN NHAN": "SON",
+                "TEN SAN PHAM": "QUAN THUN D"
+            },
+            {
+                "History": "13:40 - 10/01/2025",
+                "MA VACH": "115",
+                "SIZE": "(SIZE 6XL)",
+                "SL": "32",
+                "TEN NHAN": "SON",
+                "TEN SAN PHAM": "QUAN THUN D"
+            },
+            {
+                "History": "11:13 - 11/01/2025",
+                "MA VACH": "88",
+                "SIZE": "(SIZE 2XL)",
+                "SL": "9",
+                "TEN NHAN": "SON",
+                "TEN SAN PHAM": "BO DUI"
+            },
+            {
+                "History": "11:13 - 11/01/2025",
+                "MA VACH": "88",
+                "SIZE": "(SIZE 2XL)",
+                "SL": "3",
+                "TEN NHAN": "SON",
+                "TEN SAN PHAM": "BO DUI"
+            },
+            {
+                "History": "11:49 - 11/01/2025",
+                "MA VACH": "88",
+                "SIZE": "(SIZE   L)",
+                "SL": "10",
+                "TEN NHAN": "SON",
+                "TEN SAN PHAM": "BO DUI"
+            },
+            {
+                "History": "11:49 - 11/01/2025",
+                "MA VACH": "88",
+                "SIZE": "(SIZE  XL)",
+                "SL": "10",
+                "TEN NHAN": "SON",
+                "TEN SAN PHAM": "BO DUI"
+            },
+            {
+                "History": "11:49 - 11/01/2025",
+                "MA VACH": "88",
+                "SIZE": "(SIZE 2XL)",
+                "SL": "10",
+                "TEN NHAN": "SON",
+                "TEN SAN PHAM": "BO DUI"
+            },
+            {
+                "History": "11:50 - 11/01/2025",
+                "MA VACH": "88",
+                "SIZE": "(SIZE   L)",
+                "SL": "4",
+                "TEN NHAN": "SON",
+                "TEN SAN PHAM": "BO DUI"
+            },
+            {
+                "History": "11:50 - 11/01/2025",
+                "MA VACH": "88",
+                "SIZE": "(SIZE  XL)",
+                "SL": "10",
+                "TEN NHAN": "SON",
+                "TEN SAN PHAM": "BO DUI"
+            },
+            {
+                "History": "11:50 - 11/01/2025",
+                "MA VACH": "88",
+                "SIZE": "(SIZE 2XL)",
+                "SL": "10",
+                "TEN NHAN": "SON",
+                "TEN SAN PHAM": "BO DUI"
+            },
+            {
+                "History": "15:32 - 13/01/2025",
+                "MA VACH": "116",
+                "SIZE": "(SIZE   L)",
+                "SL": "40",
+                "TEN NHAN": "NMEN",
+                "TEN SAN PHAM": "THUN D LS"
+            },
+            {
+                "History": "15:32 - 13/01/2025",
+                "MA VACH": "116",
+                "SIZE": "(SIZE  XL)",
+                "SL": "40",
+                "TEN NHAN": "NMEN",
+                "TEN SAN PHAM": "THUN D LS"
+            },
+            {
+                "History": "15:32 - 13/01/2025",
+                "MA VACH": "116",
+                "SIZE": "(SIZE 2XL)",
+                "SL": "40",
+                "TEN NHAN": "NMEN",
+                "TEN SAN PHAM": "THUN D LS"
+            },
+            {
+                "History": "15:32 - 13/01/2025",
+                "MA VACH": "116",
+                "SIZE": "(SIZE 3XL)",
+                "SL": "40",
+                "TEN NHAN": "NMEN",
+                "TEN SAN PHAM": "THUN D LS"
+            },
+            {
+                "History": "15:32 - 13/01/2025",
+                "MA VACH": "116",
+                "SIZE": "(SIZE 4XL)",
+                "SL": "40",
+                "TEN NHAN": "NMEN",
+                "TEN SAN PHAM": "THUN D LS"
+            },
+            {
+                "History": "15:32 - 13/01/2025",
+                "MA VACH": "116",
+                "SIZE": "(SIZE 5XL)",
+                "SL": "40",
+                "TEN NHAN": "NMEN",
+                "TEN SAN PHAM": "THUN D LS"
+            },
+            {
+                "History": "15:32 - 13/01/2025",
+                "MA VACH": "116",
+                "SIZE": "(SIZE 6XL)",
+                "SL": "40",
+                "TEN NHAN": "NMEN",
+                "TEN SAN PHAM": "THUN D LS"
+            }
+        ],
+        "mavach": 116,
+        "width": 300
+    },
+    "SP_HANG_HOA - Copy.xlsx": {
+        "data": {
+            "DATE": "Made in Vietnam ({date})",
+            "MORE": "mavach",
+            "MaVach": "mavach",
+            "Random": 1,
+            "SIZE": "3XL #255",
+            "SL": "30/2",
+            "SP": "THUN CB",
+            "TYPE": "SIZE:",
+            "code1": "font-family: Arial; font-size: 11px; font-weight: 400;",
+            "code2": "font-family: Code 128; font-size: 45px; font-weight: 400;",
+            "code3": "font-family: c39hrp24dhtt; font-size: 50px; font-weight: 400;"
+        },
+        "design": "<body style=\"text-align: center; font-family: Arial; font-weight:bold; font-size: 20px;\"><div style=\"width: 300px; display: flex; justify-content: space-between;\"><span style=\"text-align: left; font-size: 25px; font-weight: bolder;\">T\u00ean SP: </span><span style=\"text-align: right; font-size: 22px\"> %(SP)s </span></div> <div style=\"margin: 20px 0; text-align: center;\">%(MORE)s </div><div style=\"font-size: 22px;\">H\u01b0\u1edbng d\u1eabn s\u1eed d\u1ee5ng: </div><div style=\"margin: 10px 20px 20px 20px; text-align: left; font-size: 18px; font-weight: 100;\"> Tr\u00e1nh ti\u1ebfp x\u00fac tr\u01b0c ti\u1ebfp v\u1edbi \u00e1nh <br>n\u1eafng, tr\u00e1nh d\u00f9ng ch\u1ea5t t\u1ea9y r\u1eeda <br> m\u1ea1nh, ho\u1eb7c \u0111\u1ec3 s\u1ea3n ph\u1ea9m b\u1ecb <br>th\u1ea5m n\u01b0\u1edbc qu\u00e1 l\u00e2u. <br><br> Tr\u00e1nh ti\u1ebfp x\u00fac v\u1edbi m\u1eb7t nh\u1ecdn. <br>Gi\u1eb7c s\u1ea1ch ph\u01a1i kh\u00f4 v\u00e0 b\u1ea3o <br> qu\u1ea3n n\u01a1i tho\u00e1ng m\u00e1t </div> <div style=\"font-size: 22px; text-align: center; margin: 0;\">%(DATE)s</div> <div style=\"%(sizeStyle)s\"> %(TYPE)s <span style=\"color: white;\">.</span>%(SIZE)s </div></body>",
+        "height": 420,
+        "history": [
+            {
+                "DATE": "10/24",
+                "History": "13:31 - 24/10/2024",
+                "MORE": "Th\u00e0nh ph\u1ea7n: Cotton",
+                "SIZE": "3XL #255",
+                "SL": "15",
+                "SP": "THUN CB",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam (10/24)",
+                "History": "13:32 - 24/10/2024",
+                "MORE": "Th\u00e0nh ph\u1ea7n: Cotton",
+                "SIZE": "5XL #255",
+                "SL": "15",
+                "SP": "THUN CB",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "S\u1ea3n xu\u1ea5t t\u1ea1i Vi\u1ec7t Nam",
+                "History": "22:37 - 24/10/2024",
+                "MORE": "Th\u00e0nh ph\u1ea7n: Cotton",
+                "SIZE": "QT FASHION",
+                "SL": "1",
+                "SP": "\u00c1O NAM",
+                "TYPE": "Ph\u00e2n ph\u1ed1i:"
+            },
+            {
+                "DATE": "Made in Vietnam (10/24)",
+                "History": "15:16 - 25/10/2024",
+                "MORE": "Th\u00e0nh ph\u1ea7n: Cotton",
+                "SIZE": "5XL #255",
+                "SL": "15",
+                "SP": "THUN CB",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam (10/24)",
+                "History": "15:16 - 25/10/2024",
+                "MORE": "Th\u00e0nh ph\u1ea7n: Cotton",
+                "SIZE": "6XL #255",
+                "SL": "16",
+                "SP": "THUN CB",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam (10/24)",
+                "History": "15:16 - 25/10/2024",
+                "MORE": "Th\u00e0nh ph\u1ea7n: Cotton",
+                "SIZE": "7XL #255",
+                "SL": "15",
+                "SP": "THUN CB",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam (10/24)",
+                "History": "15:16 - 25/10/2024",
+                "MORE": "Th\u00e0nh ph\u1ea7n: Cotton",
+                "SIZE": "M",
+                "SL": "15",
+                "SP": "THUN CB WAS",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam (10/24)",
+                "History": "15:16 - 25/10/2024",
+                "MORE": "Th\u00e0nh ph\u1ea7n: Cotton",
+                "SIZE": "L",
+                "SL": "15",
+                "SP": "THUN CB WAS",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam (10/24)",
+                "History": "15:16 - 25/10/2024",
+                "MORE": "Th\u00e0nh ph\u1ea7n: Cotton",
+                "SIZE": "XL",
+                "SL": "15",
+                "SP": "THUN CB WAS",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam (10/24)",
+                "History": "15:16 - 25/10/2024",
+                "MORE": "Th\u00e0nh ph\u1ea7n: Cotton",
+                "SIZE": "5XL #255",
+                "SL": "15",
+                "SP": "THUN CB",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam (10/24)",
+                "History": "15:16 - 25/10/2024",
+                "MORE": "Th\u00e0nh ph\u1ea7n: Cotton",
+                "SIZE": "6XL #255",
+                "SL": "16",
+                "SP": "THUN CB",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam (10/24)",
+                "History": "15:16 - 25/10/2024",
+                "MORE": "Th\u00e0nh ph\u1ea7n: Cotton",
+                "SIZE": "7XL #255",
+                "SL": "15",
+                "SP": "THUN CB",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam (10/24)",
+                "History": "15:16 - 25/10/2024",
+                "MORE": "Th\u00e0nh ph\u1ea7n: Cotton",
+                "SIZE": "M",
+                "SL": "15",
+                "SP": "THUN CB WAS",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam (10/24)",
+                "History": "15:16 - 25/10/2024",
+                "MORE": "Th\u00e0nh ph\u1ea7n: Cotton",
+                "SIZE": "L",
+                "SL": "15",
+                "SP": "THUN CB WAS",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam (10/24)",
+                "History": "15:16 - 25/10/2024",
+                "MORE": "Th\u00e0nh ph\u1ea7n: Cotton",
+                "SIZE": "XL",
+                "SL": "15",
+                "SP": "THUN CB WAS",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam (10/24)",
+                "History": "15:16 - 25/10/2024",
+                "MORE": "Th\u00e0nh ph\u1ea7n: Cotton",
+                "SIZE": "7XL #255",
+                "SL": "15",
+                "SP": "THUN CB",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam (11/24)",
+                "History": "15:22 - 04/11/2024",
+                "MORE": "Th\u00e0nh ph\u1ea7n: Cotton",
+                "SIZE": "L",
+                "SL": "15",
+                "SP": "THUN CB WAS",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam (11/24)",
+                "History": "15:22 - 04/11/2024",
+                "MORE": "Th\u00e0nh ph\u1ea7n: Cotton",
+                "SIZE": "XL",
+                "SL": "15",
+                "SP": "THUN CB WAS",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam (11/24)",
+                "History": "15:22 - 04/11/2024",
+                "MORE": "Th\u00e0nh ph\u1ea7n: Cotton",
+                "SIZE": "5XL #255",
+                "SL": "15",
+                "SP": "THUN CB",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam (11/24)",
+                "History": "15:22 - 04/11/2024",
+                "MORE": "Th\u00e0nh ph\u1ea7n: Cotton",
+                "SIZE": "6XL #255",
+                "SL": "16",
+                "SP": "THUN CB",
+                "TYPE": "SIZE:"
+            }
+        ],
+        "mavach": 31,
+        "width": 300
+    },
+    "SP_HANG_HOA.xlsx": {
+        "data": {
+            "DATE": "Made in Vietnam ({date})",
+            "MORE": "Th\u00e0nh ph\u1ea7n: Cotton",
+            "MaVach": "mavach",
+            "Random": 0,
+            "SIZE": "L",
+            "SL": "30",
+            "SP": "THUN CB WAS",
+            "TYPE": "SIZE:",
+            "code1": "font-family: Arial; font-size: 11px; font-weight: 400;",
+            "code2": "font-family: Code 128; font-size: 45px; font-weight: 400;",
+            "code3": "font-family: c39hrp24dhtt; font-size: 50px; font-weight: 400;"
+        },
+        "design": "<body style=\"text-align: center; font-family: Arial; font-weight:bold; font-size: 20px;\"><div style=\"width: 300px; display: flex; justify-content: space-between;\"><span style=\"text-align: left; font-size: 25px; font-weight: bolder;\">T\u00ean SP: </span><span style=\"text-align: right; font-size: 22px\"> %(SP)s </span></div> <div style=\"margin: 20px 0; text-align: center;\">%(MORE)s </div><div style=\"font-size: 22px;\">H\u01b0\u1edbng d\u1eabn s\u1eed d\u1ee5ng: </div><div style=\"margin: 10px 20px 20px 20px; text-align: left; font-size: 18px; font-weight: 100;\"> Tr\u00e1nh ti\u1ebfp x\u00fac tr\u01b0c ti\u1ebfp v\u1edbi \u00e1nh <br>n\u1eafng, tr\u00e1nh d\u00f9ng ch\u1ea5t t\u1ea9y r\u1eeda <br> m\u1ea1nh, ho\u1eb7c \u0111\u1ec3 s\u1ea3n ph\u1ea9m b\u1ecb <br>th\u1ea5m n\u01b0\u1edbc qu\u00e1 l\u00e2u. <br><br> Tr\u00e1nh ti\u1ebfp x\u00fac v\u1edbi m\u1eb7t nh\u1ecdn. <br>Gi\u1eb7c s\u1ea1ch ph\u01a1i kh\u00f4 v\u00e0 b\u1ea3o <br> qu\u1ea3n n\u01a1i tho\u00e1ng m\u00e1t </div> <div style=\"font-size: 22px; text-align: center; margin: 0;\">%(DATE)s</div> <div style=\"%(sizeStyle)s\"> %(TYPE)s <span style=\"color: white;\">.</span>%(SIZE)s </div></body>",
+        "height": 420,
+        "history": [
+            {
+                "DATE": "Made in Vietnam (01/25)",
+                "History": "11:40 - 12/01/2025",
+                "MORE": "Ph\u00e2n ph\u1ed1i: SUHAO FASHION",
+                "SIZE": "6XL",
+                "SL": "10",
+                "SP": "QUAN THUN D",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam (01/25)",
+                "History": "07:15 - 13/01/2025",
+                "MORE": "Th\u00e0nh ph\u1ea7n: Cotton",
+                "SIZE": "M #325",
+                "SL": "77",
+                "SP": "THUN CB",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam (01/25)",
+                "History": "07:15 - 13/01/2025",
+                "MORE": "Th\u00e0nh ph\u1ea7n: Cotton",
+                "SIZE": "L #325",
+                "SL": "77",
+                "SP": "THUN CB",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam (01/25)",
+                "History": "07:15 - 13/01/2025",
+                "MORE": "Th\u00e0nh ph\u1ea7n: Cotton",
+                "SIZE": "XL #325",
+                "SL": "77",
+                "SP": "THUN CB",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam (01/25)",
+                "History": "07:15 - 13/01/2025",
+                "MORE": "Th\u00e0nh ph\u1ea7n: Cotton",
+                "SIZE": "2XL #325",
+                "SL": "77",
+                "SP": "THUN CB",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam (01/25)",
+                "History": "08:01 - 13/01/2025",
+                "MORE": "Ph\u00e2n ph\u1ed1i: SUHAO FASHION",
+                "SIZE": "XL",
+                "SL": "2",
+                "SP": "QUAN KAKI N",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam (01/25)",
+                "History": "08:01 - 13/01/2025",
+                "MORE": "Ph\u00e2n ph\u1ed1i: SUHAO FASHION",
+                "SIZE": "2XL",
+                "SL": "2",
+                "SP": "QUAN KAKI N",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam (01/25)",
+                "History": "08:01 - 13/01/2025",
+                "MORE": "Ph\u00e2n ph\u1ed1i: SUHAO FASHION",
+                "SIZE": "3XL",
+                "SL": "2",
+                "SP": "QUAN KAKI N",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam (01/25)",
+                "History": "09:30 - 13/01/2025",
+                "MORE": "Ph\u00e2n ph\u1ed1i: SUHAO FASHION",
+                "SIZE": "9XL",
+                "SL": "2",
+                "SP": "QUAN THUN D",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam (01/25)",
+                "History": "09:38 - 13/01/2025",
+                "MORE": "Ph\u00e2n ph\u1ed1i: SUHAO FASHION",
+                "SIZE": "7XL",
+                "SL": "2",
+                "SP": "QUAN THUN D",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam (01/25)",
+                "History": "09:45 - 13/01/2025",
+                "MORE": "Ph\u00e2n ph\u1ed1i: SUHAO FASHION",
+                "SIZE": "5XL",
+                "SL": "2",
+                "SP": "QUAN THUN D",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam (01/25)",
+                "History": "10:41 - 13/01/2025",
+                "MORE": "Th\u00e0nh ph\u1ea7n: Cotton",
+                "SIZE": "2XL",
+                "SL": "20",
+                "SP": "THUN CB",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam (01/25)",
+                "History": "10:48 - 13/01/2025",
+                "MORE": "Ph\u00e2n ph\u1ed1i: SUHAO FASHION",
+                "SIZE": "M",
+                "SL": "20",
+                "SP": "AO THUN 4C",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam (01/25)",
+                "History": "10:48 - 13/01/2025",
+                "MORE": "Ph\u00e2n ph\u1ed1i: SUHAO FASHION",
+                "SIZE": "L",
+                "SL": "20",
+                "SP": "AO THUN 4C",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam (01/25)",
+                "History": "10:48 - 13/01/2025",
+                "MORE": "Ph\u00e2n ph\u1ed1i: SUHAO FASHION",
+                "SIZE": "XL",
+                "SL": "20",
+                "SP": "AO THUN 4C",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam (01/25)",
+                "History": "10:48 - 13/01/2025",
+                "MORE": "Ph\u00e2n ph\u1ed1i: SUHAO FASHION",
+                "SIZE": "2XL",
+                "SL": "20",
+                "SP": "AO THUN 4C",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam (01/25)",
+                "History": "10:48 - 13/01/2025",
+                "MORE": "Ph\u00e2n ph\u1ed1i: SUHAO FASHION",
+                "SIZE": "3XL",
+                "SL": "20",
+                "SP": "AO THUN 4C",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam (01/25)",
+                "History": "12:05 - 13/01/2025",
+                "MORE": "Th\u00e0nh ph\u1ea7n: Cotton",
+                "SIZE": "XL #325",
+                "SL": "20",
+                "SP": "THUN CB",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam (01/25)",
+                "History": "12:05 - 13/01/2025",
+                "MORE": "Th\u00e0nh ph\u1ea7n: Cotton",
+                "SIZE": "2XL #325",
+                "SL": "20",
+                "SP": "THUN CB",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam (01/25)",
+                "History": "14:44 - 13/01/2025",
+                "MORE": "Th\u00e0nh ph\u1ea7n: Cotton",
+                "SIZE": "L",
+                "SL": "50",
+                "SP": "THUN CB",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam (01/25)",
+                "History": "14:44 - 13/01/2025",
+                "MORE": "Th\u00e0nh ph\u1ea7n: Cotton",
+                "SIZE": "XL",
+                "SL": "50",
+                "SP": "THUN CB",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam (01/25)",
+                "History": "14:44 - 13/01/2025",
+                "MORE": "Th\u00e0nh ph\u1ea7n: Cotton",
+                "SIZE": "5XL",
+                "SL": "50",
+                "SP": "THUN CB",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam (01/25)",
+                "History": "15:50 - 13/01/2025",
+                "MORE": "Th\u00e0nh ph\u1ea7n: Cotton",
+                "SIZE": "2XL",
+                "SL": "20",
+                "SP": "THUN CB",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam",
+                "History": "16:43 - 13/01/2025",
+                "MORE": "Ph\u00e2n ph\u1ed1i: SUHAO FASHION",
+                "SIZE": "L",
+                "SL": "10",
+                "SP": "THUN CO TRON",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam",
+                "History": "16:43 - 13/01/2025",
+                "MORE": "Ph\u00e2n ph\u1ed1i: SUHAO FASHION",
+                "SIZE": "XL",
+                "SL": "10",
+                "SP": "THUN CO TRON",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam",
+                "History": "16:43 - 13/01/2025",
+                "MORE": "Ph\u00e2n ph\u1ed1i: SUHAO FASHION",
+                "SIZE": "2XL",
+                "SL": "10",
+                "SP": "THUN CO TRON",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam",
+                "History": "17:15 - 13/01/2025",
+                "MORE": "Ph\u00e2n ph\u1ed1i: SUHAO FASHION",
+                "SIZE": "M",
+                "SL": "40",
+                "SP": "AO THUN 4C",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam",
+                "History": "17:15 - 13/01/2025",
+                "MORE": "Ph\u00e2n ph\u1ed1i: SUHAO FASHION",
+                "SIZE": "L",
+                "SL": "40",
+                "SP": "AO THUN 4C",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam",
+                "History": "17:15 - 13/01/2025",
+                "MORE": "Ph\u00e2n ph\u1ed1i: SUHAO FASHION",
+                "SIZE": "XL",
+                "SL": "40",
+                "SP": "AO THUN 4C",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam",
+                "History": "17:15 - 13/01/2025",
+                "MORE": "Ph\u00e2n ph\u1ed1i: SUHAO FASHION",
+                "SIZE": "2XL",
+                "SL": "40",
+                "SP": "AO THUN 4C",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam",
+                "History": "19:38 - 13/01/2025",
+                "MORE": "Ph\u00e2n ph\u1ed1i: SUHAO FASHION",
+                "SIZE": "L ",
+                "SL": "22",
+                "SP": "QUAN THUN D",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam",
+                "History": "19:38 - 13/01/2025",
+                "MORE": "Ph\u00e2n ph\u1ed1i: SUHAO FASHION",
+                "SIZE": "XL",
+                "SL": "22",
+                "SP": "QUAN THUN D",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam",
+                "History": "19:38 - 13/01/2025",
+                "MORE": "Ph\u00e2n ph\u1ed1i: SUHAO FASHION",
+                "SIZE": "2XL",
+                "SL": "22",
+                "SP": "QUAN THUN D",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam",
+                "History": "19:38 - 13/01/2025",
+                "MORE": "Ph\u00e2n ph\u1ed1i: SUHAO FASHION",
+                "SIZE": "3XL",
+                "SL": "22",
+                "SP": "QUAN THUN D",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam",
+                "History": "19:38 - 13/01/2025",
+                "MORE": "Ph\u00e2n ph\u1ed1i: SUHAO FASHION",
+                "SIZE": "4XL",
+                "SL": "22",
+                "SP": "QUAN THUN D",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam",
+                "History": "19:38 - 13/01/2025",
+                "MORE": "Ph\u00e2n ph\u1ed1i: SUHAO FASHION",
+                "SIZE": "5XL",
+                "SL": "22",
+                "SP": "QUAN THUN D",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam",
+                "History": "19:38 - 13/01/2025",
+                "MORE": "Ph\u00e2n ph\u1ed1i: SUHAO FASHION",
+                "SIZE": "6XL",
+                "SL": "22",
+                "SP": "QUAN THUN D",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam (01/25)",
+                "History": "09:04 - 14/01/2025",
+                "MORE": "Th\u00e0nh ph\u1ea7n: Cotton",
+                "SIZE": "8XL #331",
+                "SL": "54",
+                "SP": "THUN CB",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam (01/25)",
+                "History": "09:04 - 14/01/2025",
+                "MORE": "Th\u00e0nh ph\u1ea7n: Cotton",
+                "SIZE": "9XL #331",
+                "SL": "54",
+                "SP": "THUN CB",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam (01/25)",
+                "History": "09:04 - 14/01/2025",
+                "MORE": "Th\u00e0nh ph\u1ea7n: Cotton",
+                "SIZE": "10XL #331",
+                "SL": "54",
+                "SP": "THUN CB",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam (01/25)",
+                "History": "09:20 - 14/01/2025",
+                "MORE": "Th\u00e0nh ph\u1ea7n: Cotton",
+                "SIZE": "2XL",
+                "SL": "50",
+                "SP": "THUN CB",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam (01/25)",
+                "History": "09:20 - 14/01/2025",
+                "MORE": "Th\u00e0nh ph\u1ea7n: Cotton",
+                "SIZE": "3XL",
+                "SL": "50",
+                "SP": "THUN CB",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam (01/25)",
+                "History": "09:20 - 14/01/2025",
+                "MORE": "Th\u00e0nh ph\u1ea7n: Cotton",
+                "SIZE": "4XL",
+                "SL": "50",
+                "SP": "THUN CB",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam (01/25)",
+                "History": "09:20 - 14/01/2025",
+                "MORE": "Th\u00e0nh ph\u1ea7n: Cotton",
+                "SIZE": "5XL",
+                "SL": "50",
+                "SP": "THUN CB",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam (01/25)",
+                "History": "09:21 - 14/01/2025",
+                "MORE": "Th\u00e0nh ph\u1ea7n: Cotton",
+                "SIZE": "L",
+                "SL": "30",
+                "SP": "THUN CB WAS",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam (01/25)",
+                "History": "09:21 - 14/01/2025",
+                "MORE": "Th\u00e0nh ph\u1ea7n: Cotton",
+                "SIZE": "XL",
+                "SL": "30",
+                "SP": "THUN CB WAS",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam (01/25)",
+                "History": "09:21 - 14/01/2025",
+                "MORE": "Th\u00e0nh ph\u1ea7n: Cotton",
+                "SIZE": "2XL",
+                "SL": "30",
+                "SP": "THUN CB WAS",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam (01/25)",
+                "History": "09:21 - 14/01/2025",
+                "MORE": "Th\u00e0nh ph\u1ea7n: Cotton",
+                "SIZE": "3XL",
+                "SL": "30",
+                "SP": "THUN CB WAS",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam (01/25)",
+                "History": "09:21 - 14/01/2025",
+                "MORE": "Th\u00e0nh ph\u1ea7n: Cotton",
+                "SIZE": "4XL",
+                "SL": "30",
+                "SP": "THUN CB WAS",
+                "TYPE": "SIZE:"
+            },
+            {
+                "DATE": "Made in Vietnam (01/25)",
+                "History": "09:21 - 14/01/2025",
+                "MORE": "Th\u00e0nh ph\u1ea7n: Cotton",
+                "SIZE": "5XL",
+                "SL": "30",
+                "SP": "THUN CB WAS",
+                "TYPE": "SIZE:"
+            }
+        ],
+        "mavach": 29,
+        "width": 300
+    }
+}
